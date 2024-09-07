@@ -1,5 +1,5 @@
 {
-  "name": "System apps",
+  "name": "Accessible System Apps",
   "identifier": "repo.yourname.systemapps",
   "sourceURL": "https://raw.githubusercontent.com/YourName028/System-Apps/main/repo.json",
   "iconURL": "https://media.discordapp.net/attachments/1279964710522982440/1281806641288708249/IMG_6350.jpg?ex=66dd0ef6&is=66dbbd76&hm=bd39ede4c82f39ad17f773dda375ac794ff651c770dd3161b9bf300fe38ada42&=&format=webp",
@@ -29,7 +29,7 @@
       "iconURL": "https://media.discordapp.net/attachments/1279964710522982440/1281808018744541224/IMG_6407.png?ex=66dd103e&is=66dbbebe&hm=c9f1cee30b742ee50d94e9db7eae5e1cf85c21d80c67fe19e192981fed6936f4&=&format=webp&quality=lossless",
       "version": "1.0",
       "size": 1540130,
-      "downloadURL": "https://github.com/YourName028/System-Apps/blob/main/Feedback%20Assistant%20iOS.ipa",
+      "downloadURL": "https://raw.githubusercontent.com/YourName028/System-Apps/main/Feedback%20Assistant%20iOS.ipa",
       "localizedDescription": "Feedback Assistant iOS is an iOS app for reporting bugs and feedback to Apple.",
       "versionDate": "2024-09-06",
       "type": 1
@@ -41,7 +41,7 @@
       "iconURL": "https://media.discordapp.net/attachments/1279964710522982440/1281807858232590427/IMG_6406.png?ex=66dd1018&is=66dbbe98&hm=c4dddfb648e8cce323fb095ff9b855a74bd3325b562e6def57f999aeccd8525c&=&format=webp&quality=lossless",
       "version": "1.0",
       "size": 184903,
-      "downloadURL": "https://github.com/YourName028/System-Apps/raw/main/BarcodeScanner.ipa",
+      "downloadURL": "https://raw.githubusercontent.com/YourName028/System-Apps/main/BarcodeScanner.ipa",
       "localizedDescription": "BarcodeScanner is an iOS app for scanning and reading barcodes and QR codes.",
       "versionDate": "2024-09-06",
       "type": 1
